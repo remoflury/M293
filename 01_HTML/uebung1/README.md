@@ -1,26 +1,26 @@
 # HTML Grundlagen: Übung 1
 
 ## Ziel
-Erstellen Sie Ihre erste HTML Seite. Dies soll ein Portrait von Ihnen sein.
+Erstelle deine erste HTML Seite. Dies soll ein Portrait von dir sein.
 
 ## Ausgangslage
-Praktisch jede Webanwendung hat eine sogenannte Startseite. Meistens ist das eine Seite die den Namen «index.html» hat. (seltener auch default.html, index.htm). Für Ihre eigene Website werden Sie genau diese Startseite erstellen.
+Praktisch jede Webanwendung hat eine sogenannte Startseite. Meistens ist das eine Seite die den Namen «index.html» hat. (seltener auch default.html, index.htm). Für deine eigene Website wirst du genau diese Startseite erstellen.
 
 ## Auftrag
-Arbeiten Sie im Arbeitsordner 01_HTML > uebung 1.
-Ihr Ziel ist es eine Portraitseite mit folgenden Eleemnten zu erstellen:
+Arbeite im Arbeitsordner 01_HTML > uebung1.
+Das Ziel ist es eine Portraitseite mit folgenden Eleemnten zu erstellen:
 - Titel der Website (Tipp: <h1>)
-- Ein Foto von Ihnen (Tipp: <img>)
+- Ein Foto von dir (Tipp: <img>)
 - Untertitel: Kontakt (Tipp: <h2>)
-- Ihre Adresse
-- Ihre Kontaktdaten (Tipp: <a>)
+- Deine Adresse
+- Deine Kontaktdaten (Tipp: <a>)
 - Untertitel: Meine Links
-- Ihre Links, je auf einer Zeile (Liste)
+- Deine Links, je auf einer Zeile (Liste)
 
 Beispiel ![Beispiel Website](beispiel.png)
 
 
 ## Vorgehensweise
-Finden Sie auf [https://w3schools.com/html](https://w3schools.com/html) die richtigen HTML Tags um Ihre Portraitseite entsprechend zu gestalten. Gerne können Sie weitere beliebige Elemente hinzufügen.
+Finde auf [https://w3schools.com/html](https://w3schools.com/html) die richtigen HTML Tags um die Portraitseite entsprechend zu gestalten. Gerne kannst du weitere beliebige Elemente hinzufügen.
 
-Versuchen Sie es zuerst mit wenig Inhalt. Speichern Sie Ihre Datei und schauen Sie was sich verändert hat. Wenn Sie stets kleine Änderungen am Code vornehmen ist es einfacher nachzuvollziehen was passiert.
+Versuche es zuerst mit wenig Inhalt. Speichere die Datei und schaue was sich verändert hat. Wenn du stets kleine Änderungen am Code vornimmst ist es einfacher nachzuvollziehen, was passiert.

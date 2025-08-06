@@ -1,9 +1,9 @@
 /**
  * Aufgabe 8
  * 
- * Erstellenen Sie einen prompt, der nach dem Namen fragt.
- * Speichern Sie den Wert des Namens in einer Variable und
- * setzen Sie den Text des H1 auf "Hallo <Name>"
+ * Erstellene einen prompt, der nach dem Namen fragt.
+ * Speichere den Wert des Namens in einer Variable und
+ * setze den Text des H1 auf "Hallo <Name>"
  * 
  * Tipp: Recherchieren Sie zu "window prompt()"
  */

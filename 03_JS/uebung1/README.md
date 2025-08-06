@@ -3,8 +3,6 @@
 ## Ziel
 Erstes Hands-On Javascript, einfaches Anwenden.
 
-## Ausgangslage
-
-
 ## Auftrag
+Erledige die Aufgaben im JS Ordner "uebung1". Die Aufgabenstellung ist entweder im HTML-File oder im JS-File.
 
