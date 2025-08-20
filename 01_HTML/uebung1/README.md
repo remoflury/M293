@@ -9,11 +9,11 @@ Praktisch jede Webanwendung hat eine sogenannte Startseite. Meistens ist das ein
 ## Auftrag
 Arbeite im Arbeitsordner 01_HTML > uebung1.
 Das Ziel ist es eine Portraitseite mit folgenden Eleemnten zu erstellen:
-- Titel der Website (Tipp: <h1>)
-- Ein Foto von dir (Tipp: <img>)
-- Untertitel: Kontakt (Tipp: <h2>)
+- Titel der Website (Tipp: `<h1>`)
+- Ein Foto von dir (Tipp: `<img>`)
+- Untertitel: Kontakt (Tipp: `<h2>`)
 - Deine Adresse
-- Deine Kontaktdaten (Tipp: <a>)
+- Deine Kontaktdaten (Tipp: `<a>`)
 - Untertitel: Meine Links
 - Deine Links, je auf einer Zeile (Liste)
 
