@@ -1,12 +1,12 @@
 /**
  * AUFGABE 6
  * 
- * Erstelle eine Funktion addHobbyToList mit einem Parameter. 
+ * Erstellen Sie eine Funktion addHobbyToList mit einem Parameter. 
  * Die Funktion soll ein <li> Element erstellen und als Textinhalt das Argument anzeigen.
  * Das erstellte <li>-Element soll danach der bestehenden <ul> Liste angefügt werden.
  * 
- * Iteriere (Tipp: loop) danach durch das Array mit den Hobbies und erstelle für jedes Hobbie ein List-Element
- * indem du die Funktion aufrufst.
+ * Iterieren Sie (Tipp: loop) danach durch das Array mit den Hobbies und erstellen Sie für jedes Hobbie ein List-Element
+ * indem Sie die Funktion aufrufen.
  */
 
 

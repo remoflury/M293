@@ -1,6 +1,6 @@
 /**
  * Aufgabe 1
  * 
- * Speichere den Textinhalt des H1 in einer Variablen.
- * Gib diesen Text anschliessend mit console.log aus.
+ * Speichern Sie den Textinhalt des H1 in einer Variablen.
+ * Geben Sie diesen Text anschliessend mit console.log aus.
  */
