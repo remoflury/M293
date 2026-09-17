@@ -15,7 +15,7 @@
  *    - Zeigen Sie im #feedback eine passende Fehlermeldung
  * 6. Bei Erfolg:
  *    - Entfernen Sie "error"-Klassen
- *    - Zeigen Sie eine Erfolgsmeldung mit Klasse "success"
+ *    - Zeigen Sie eine Erfolgsmeldung mit Klasse "success" auf dem Feedback-Element
  *    - Entfernen Sie die Klasse "hidden" am Feedback-Element
  *
  * Tipp: classList.add(), classList.remove(), classList.toggle()
